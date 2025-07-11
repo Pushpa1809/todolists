@@ -1,0 +1,83 @@
+
+body {
+  background: linear-gradient(135deg, #cfd9df, #e2ebf0); /* soft steel-blue gradient */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+
+
+.container {
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+}
+
+
+h3 {
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+
+.form-control {
+  border-radius: 8px;
+  border: 2px solid #0d6efd;
+  outline: none;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.btn-primary {
+  font-weight: bold;
+  background-color: #0d6efd;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  font-size: 16px;
+  background-color: #fefefe;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.list-group-item:hover {
+  background-color: #f0faff;
+  transform: scale(1.01);
+}
+
+.list-group-item p {
+  margin: 0;
+  flex-grow: 1;
+  color: #212529;
+}
+
+
+.btn-danger {
+  background-color: #dc3545;
+  border: none;
+  font-size: 16px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-danger:hover {
+  background-color: #bb2d3b;
+}
