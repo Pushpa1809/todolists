@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/todolist/static/css/main.df4146d1.css",
-    "main.js": "/todolist/static/js/main.160c06fb.js",
-    "static/js/453.2c4d6784.chunk.js": "/todolist/static/js/453.2c4d6784.chunk.js",
-    "index.html": "/todolist/index.html",
-    "main.df4146d1.css.map": "/todolist/static/css/main.df4146d1.css.map",
-    "main.160c06fb.js.map": "/todolist/static/js/main.160c06fb.js.map",
-    "453.2c4d6784.chunk.js.map": "/todolist/static/js/453.2c4d6784.chunk.js.map"
+    "main.css": "/Pushpa1809/ToList.git/static/css/main.df4146d1.css",
+    "main.js": "/Pushpa1809/ToList.git/static/js/main.06808a7d.js",
+    "static/js/453.2c4d6784.chunk.js": "/Pushpa1809/ToList.git/static/js/453.2c4d6784.chunk.js",
+    "index.html": "/Pushpa1809/ToList.git/index.html",
+    "main.df4146d1.css.map": "/Pushpa1809/ToList.git/static/css/main.df4146d1.css.map",
+    "main.06808a7d.js.map": "/Pushpa1809/ToList.git/static/js/main.06808a7d.js.map",
+    "453.2c4d6784.chunk.js.map": "/Pushpa1809/ToList.git/static/js/453.2c4d6784.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df4146d1.css",
-    "static/js/main.160c06fb.js"
+    "static/js/main.06808a7d.js"
   ]
 }
